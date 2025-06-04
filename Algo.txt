@@ -1,4 +1,5 @@
-Decide which business to order from 
+Look at my bank account
+If I have enough money decide which business to order from 
 If with friends ask what type of pizza they want 
 order pizza of common intrest
 If alone order what I want
